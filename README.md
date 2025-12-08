@@ -1,6 +1,5 @@
 # 📊 Superstore Sales Analysis Dashboard
 
-![Dashboard Banner](Place_Your_Main_Dashboard_Image_Here.png)
 ## 📖 Project Overview
 This project involves analyzing sales data for a fictional "Superstore" to identify trends, top-performing products, and regional sales distribution. The goal is to provide actionable insights to stakeholders to improve profitability and operational efficiency.
 
