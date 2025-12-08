@@ -35,16 +35,12 @@ The dataset contains sales transactions including:
 ## 📷 Dashboard Screenshots
 
 ### 1. Sales Overview
-![Sales Overview](Link_to_Image_1.png)
-*Shows total sales, profit, and quantity KPIs.*
-
+![Sales Overview](SalesOverview.jpg)
 ### 2. Regional Analysis
-![Regional Analysis](Link_to_Image_2.png)
-*Map visualization and bar charts for state-wise performance.*
+![Regional Analysis](RegionAnalysis.jpg)
 
 ### 3. Product Performance
-![Product Analysis](Link_to_Image_3.png)
-*Tree map and matrix showing category breakdown.*
+![Product Analysis](OrderAnalysis.jpg)
 
 ## 🚀 How to Run
 1. Download the `.pbix` file from this repository.
