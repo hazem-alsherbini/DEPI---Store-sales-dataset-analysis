@@ -35,11 +35,15 @@ The dataset contains sales transactions including:
 
 ### 1. Sales Overview
 ![Sales Overview](SalesOverview.jpg)
+
 ### 2. Regional Analysis
 ![Regional Analysis](RegionAnalysis.jpg)
 
 ### 3. Order Performance
 ![Product Analysis](OrderAnalysis.jpg)
+
+### 3. Data Modeling
+![Data Modeling](DataModeling.jpg)
 
 ## 🚀 How to Run
 1. Download the `.pbix` file from this repository.
