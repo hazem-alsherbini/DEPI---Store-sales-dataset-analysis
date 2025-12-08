@@ -39,7 +39,7 @@ The dataset contains sales transactions including:
 ### 2. Regional Analysis
 ![Regional Analysis](RegionAnalysis.jpg)
 
-### 3. Product Performance
+### 3. Order Performance
 ![Product Analysis](OrderAnalysis.jpg)
 
 ## 🚀 How to Run
