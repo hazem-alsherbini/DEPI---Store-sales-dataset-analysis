@@ -42,7 +42,7 @@ The dataset contains sales transactions including:
 ### 3. Order Performance
 ![Product Analysis](OrderAnalysis.jpg)
 
-### 3. Data Modeling
+### 4. Data Modeling
 ![Data Modeling](DataModeling.jpg)
 
 ## 🚀 How to Run
